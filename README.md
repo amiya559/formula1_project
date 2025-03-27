@@ -1,0 +1,3 @@
+As a data engineer analyzing Formula 1 racing game data, your focus would be on processing and extracting insights from telemetry data, race statistics, and player performance metrics. This includes analyzing lap times, tire degradation, fuel usage, car setups, weather impact, and AI performance. You may work with structured data from game logs, APIs, or real-time streaming data to build dashboards, predictive models, or optimization algorithms for enhancing gameplay or competitive analysis.
+
+I have used Azure Databricks, PySpark, Spark SQL, Delta Lake, Unity Catalog, Azure Data Factory for this project.
